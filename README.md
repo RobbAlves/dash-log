@@ -1,6 +1,6 @@
  🚚 Dash Log
 
-**Dash Log** é um dashboard logístico moderno desenvolvido com Vite + TypeScript, focado na visualização de dados logísticos, gerenciamento de entregas e monitoramento em tempo real. O sistema conta com gráficos interativos, filtros personalizados e integração com Supabase para persistência e atualização dos dados.
+**Dash Log** é um dashboard logístico moderno desenvolvido com Vite + TypeScript, focado na visualização de dados logísticos, gerenciamento de entregas e monitoramento em tempo real. O sistema conta com gráficos interativos, filtros personalizados e integração com Supabase para persistência e atualização dos dados. OBS: Sistema feito exclusivamente para desktop.
 
   📦 Funcionalidades
 
